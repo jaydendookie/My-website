@@ -1,9 +1,3 @@
-
-        }
-        h1 {
-            font-size: 3em;
-        }
-    </style>
 </head>
 <body>
     <h1>Welcome to JaydenKa$h's World</h1>
